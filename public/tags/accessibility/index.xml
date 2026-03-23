@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Accessibility on Stephen Simei Kimogol</title>
+    <link>http://localhost:57146/hugo-website/tags/accessibility/</link>
+    <description>Recent content in Accessibility on Stephen Simei Kimogol</description>
+    <generator>Hugo -- 0.158.0</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 19 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:57146/hugo-website/tags/accessibility/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Accessibility of Digital Teaching Materials for Students with Visual Impairment</title>
+      <link>http://localhost:57146/hugo-website/project/</link>
+      <pubDate>Thu, 19 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:57146/hugo-website/project/</guid>
+      <description>Public sector PhD on accessibility of digital teaching materials, conducted with Statped and OsloMet, funded by the Norwegian Research Council.</description>
+    </item>
+    <item>
+      <title>Accessibility Barriers Faced When Interacting with Digital Teaching Materials: A Case of High School Students with Visual Impairment in Norway</title>
+      <link>http://localhost:57146/hugo-website/papers/paper1/</link>
+      <pubDate>Sat, 15 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:57146/hugo-website/papers/paper1/</guid>
+      <description>HCII 2024. Universal Access in Human-Computer Interaction. Conference paper, 2024.</description>
+    </item>
+  </channel>
+</rss>

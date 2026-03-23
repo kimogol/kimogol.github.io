@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Phd on Stephen Simei Kimogol</title>
+    <link>http://localhost:57146/hugo-website/tags/phd/</link>
+    <description>Recent content in Phd on Stephen Simei Kimogol</description>
+    <generator>Hugo -- 0.158.0</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 19 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:57146/hugo-website/tags/phd/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Accessibility of Digital Teaching Materials for Students with Visual Impairment</title>
+      <link>http://localhost:57146/hugo-website/project/</link>
+      <pubDate>Thu, 19 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:57146/hugo-website/project/</guid>
+      <description>Public sector PhD on accessibility of digital teaching materials, conducted with Statped and OsloMet, funded by the Norwegian Research Council.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,94 @@
+baseURL: "https://pascalmichaillat.org/hugo-website/" 
+title: Stephen Simei Kimogol
+theme: PaperMod
+
+enableInlineShortcodes: true
+enableRobotsTXT: true
+pagination:
+  pagerSize: 20
+
+taxonomies:
+    tag: tags
+
+menu:
+    main:
+        - identifier: project
+          name: Project
+          url: project/
+          weight: 1
+        - identifier: papers
+          name: Papers
+          url: papers/
+          weight: 2
+
+
+params:
+    description: "This website hosts Stephen Simei Kimogol's research papers, projects, and contact information."
+    author: Stephen Simei Kimogol
+    # googleAnalyticsID: "G-XXXXX"
+    DateFormat: "January 2006"
+    defaultTheme: light
+    hideFooter: false
+    disableThemeToggle: true
+    ShowShareButtons: false
+    ShowReadingTime: false
+    disableSpecial1stPost: true
+    disableAnchoredHeadings: true
+    ShowPostNavLinks: false
+    ShowBreadCrumbs: false
+    ShowCodeCopyButtons: true
+    ShowAllPagesInArchive: false
+    MainSections: ["project","papers"]
+    ShowToc: false
+    disableScrollToTop: true
+    TocOpen: true
+    ShowWordCount: false
+    UseHugoToc: true
+    comments: false
+    math: true
+    profileMode:
+          enabled: true
+          title: Stephen Simei Kimogol
+          subtitle: "I am a PhD fellow in Engineering Science at Oslo Metropolitan University, conducting a public sector PhD in collaboration with Statped. My research focuses on the accessibility of digital learning materials for students with visual impairments, exploring how artificial intelligence and universal design principles can bridge the gap between accessibility and pedagogy. 
+                      <br><br>
+                    **[Get in touch!](mailto:stkim3744@oslomet.no)** If any of the above interests you, or you are pursuing similar goals, I'd love to chat.
+                    <br> "
+          imageUrl: "SSK.png"
+          imageWidth: 160
+          imageHeight: 160
+          buttons:
+           - name: Project
+             url: project/
+           - name: Papers
+             url: papers/
+           - name: Posters
+             url: posters/
+           
+         
+    socialIcons:
+        - name: GitHub
+          url: https://github.com/Kimogol
+        - name: Linkedin
+          url: 
+
+    assets:
+        disableScrollBarStyle: true
+    cover:
+        hiddenInList: false
+        hiddenInSingle: true
+    label:
+      text: "Stephen Simei Kimogol"
+      icon: favicon.ico
+      iconHeight: 18
+
+markup:
+    goldmark:
+        renderer:
+            unsafe: true
+    highlight:
+        guessSyntax: true
+        style: autumn 
+    tableOfContents:
+        endLevel: 2
+        ordered: false
+        startLevel: 2
