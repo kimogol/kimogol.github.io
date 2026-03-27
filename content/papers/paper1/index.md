@@ -46,8 +46,9 @@ Kimogol, S. S., & Sanderson, N. C. (2024, June). Accessibility Barriers Faced Wh
 ```
 
 ---
-
+<!--
 ##### Related material
 
 + [Presentation slides](presentation1.pdf)
 + [Summary of the paper](https://www.penguinrandomhouse.com/books/110403/unusual-uses-for-olive-oil-by-alexander-mccall-smith/)
+-->
